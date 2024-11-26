@@ -9,12 +9,15 @@
 <body>
     <header class="cabecalho">
         <div class="cabecalho-logo">
-            <h1>GOTY 2024</h1>
+            <h1>GOTY 2024</h1>  
         </div>
+
         <div class="botao-conectar-registrar">
-            <button class="login-btn" id="login-btn">Conectar-se</button>
-            <button class="register-btn" id="register-btn">Registrar-se</button>
+            <button id="relatorio-btn">Relarório</button>
+            <button id="login-btn">Conectar-se</button>
+            <button id="register-btn">Registrar-se</button>     
         </div>
+
     </header>
 
     <main class="imagem-fundo">
