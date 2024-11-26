@@ -7,13 +7,14 @@
 
 body {
   font-family: Arial, sans-serif;
-  color: #fff;
+  color: hsl(0, 0%, 100%);
   background-color: #ffffff;
 }
 
+
 .cabecalho {
   position: fixed;
-  top: ;
+  top: 0;
   left: 0;
   width: 100%;
   height: 50px;
@@ -26,7 +27,7 @@ body {
 }
 
 .cabecalho-logo h1 {
-  color: #00ffff;
+  color: #3a3b3b;
   font-size: 24px;
   font-weight: bold;
 }
