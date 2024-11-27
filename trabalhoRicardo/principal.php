@@ -80,7 +80,7 @@
                 </p> 
             </div>
             <div class = "button-votar"> 
-                <button id="votar-black" class="btn-estilo">Votar</button>
+                <button id="vote-1" class="btn-estilo">Votar</button>
             </div>
         </div>
     </section>
@@ -99,7 +99,7 @@ O jogo é o lançamento mais bem avaliado do ano no Metacritic, principal agrega
                 </p>
             </div>
             <div class = "button-votar"> 
-                <button id="votar-black" class="btn-estilo">Votar</button>
+                <button id="votar-2" class="btn-estilo">Votar</button>
             </div>
         </div>
     </section>
@@ -117,7 +117,7 @@ Metaphor: Refantazio está disponível para PC (Steam) e consoles PlayStation e 
                 </p>
             </div>
             <div class = "button-votar"> 
-                <button id="votar-black" class="btn-estilo">Votar</button>
+                <button id="votar-3" class="btn-estilo">Votar</button>
             </div>
         </div>
     </section>
@@ -135,7 +135,7 @@ O DLC exige o jogo base para funcionar e está disponível para compra no PC, PS
                 </p>
             </div>
             <div class = "button-votar"> 
-                <button id="votar-black" class="btn-estilo">Votar</button>
+                <button id="votar-4" class="btn-estilo">Votar</button>
             </div>
         </div>
 
@@ -154,7 +154,7 @@ No momento, o jogo está disponível somente para PS5, mas pode ser apenas quest
                 </p>
             </div>
             <div class = "button-votar"> 
-                <button id="votar-black" class="btn-estilo">Votar</button>
+                <button id="votar-5" class="btn-estilo">Votar</button>
             </div>
         </div>
     </section>
@@ -172,7 +172,7 @@ Atualmente, Balatro está disponível para compra no PC (Steam), PlayStation, Xb
                 </p>
             </div>
             <div class = "button-votar"> 
-                <button id="votar-black" class="btn-estilo">Votar</button>
+                <button id="votar-6" class="btn-estilo">Votar</button>
             </div>
         </div>
     </section>
